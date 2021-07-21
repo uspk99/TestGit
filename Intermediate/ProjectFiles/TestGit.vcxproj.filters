@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestGit.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AE5F0CF7-5BB6-4D68-832A-D6A96366746C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestGit.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestGitEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D0C5F6F2-7F3A-47BE-9E2E-BD92F8CE4ED8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestGit">
+      <UniqueIdentifier>{EC381D49-091A-4185-82DF-30B3BA4EFEFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestGit\TestGit.Build.cs">
+      <Filter>Source\TestGit</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestGit\TestGit.cpp">
+      <Filter>Source\TestGit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestGit\TestGit.h">
+      <Filter>Source\TestGit</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestGit\TestGitCharacter.cpp">
+      <Filter>Source\TestGit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestGit\TestGitCharacter.h">
+      <Filter>Source\TestGit</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestGit\TestGitGameMode.cpp">
+      <Filter>Source\TestGit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestGit\TestGitGameMode.h">
+      <Filter>Source\TestGit</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

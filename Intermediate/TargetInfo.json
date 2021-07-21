@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestGit",
+			"Path": "E:\\uestudy\\TestGit\\Source\\TestGit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestGitEditor",
+			"Path": "E:\\uestudy\\TestGit\\Source\\TestGitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

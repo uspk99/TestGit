@@ -1,0 +1,2 @@
+E:\uestudy\TestGit\Intermediate\Build\Win64\UE4Editor\Development\TestGit\Definitions.TestGit.h
+E:\uestudy\TestGit\Source\TestGit\TestGit.h

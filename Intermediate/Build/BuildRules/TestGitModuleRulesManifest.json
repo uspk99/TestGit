@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\uestudy\\TestGit\\Source\\TestGit\\TestGit.Build.cs",
+		"E:\\uestudy\\TestGit\\Source\\TestGit.Target.cs",
+		"E:\\uestudy\\TestGit\\Source\\TestGitEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
